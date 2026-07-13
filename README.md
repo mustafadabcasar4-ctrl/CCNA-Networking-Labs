@@ -57,3 +57,19 @@ Each lab includes:
 - Packet analysis using Wireshark
 
 ## Lab Structure
+
+## Skills Demonstrated
+
+- Cisco CLI configuration
+- Network design
+- Layer 2 switching
+- Layer 3 routing
+- Network troubleshooting
+- Documentation
+
+## Certification Focus
+
+Currently building practical skills aligned with:
+
+- Cisco CCNA
+- Network Engineering fundamentals
