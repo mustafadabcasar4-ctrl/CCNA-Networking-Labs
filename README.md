@@ -1,5 +1,4 @@
 # CCNA-Networking-Labs
-# CCNA-Networking-Labs
 
 A collection of hands-on Cisco networking labs covering switching, routing, network services, security, and troubleshooting.
 
